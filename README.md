@@ -1,1 +1,1 @@
-!(ss0.png)
+!(ss)[ss0.png]
